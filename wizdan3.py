@@ -31,3 +31,13 @@
 
 #MODULY I PAKIETY
 #import start as s
+
+#ZAD1
+#A = [x for x in range (1,10)]
+#print(A)
+
+#B=[2**i for i in range(10)]
+#print(B)
+
+#C=[x for x in B if x%4==0]
+#print(C)
