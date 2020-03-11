@@ -49,10 +49,9 @@
     #print(x) 
 #--------------------------------------------
 
-#ZAD8 --------------------->DO ZROBIENIA
-#lista=[]
-#for x in range(len(lista)):
-    #lista.append
+#ZAD8
+#liczba=123456789
+#print(sum([int(cyfra)for cyfra in str(liczba)]))
 #--------------------------------------------
 
 #ZAD 9 ---------------->DO ZROBIENIA
