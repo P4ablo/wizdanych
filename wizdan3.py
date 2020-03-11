@@ -18,6 +18,8 @@
 
 #from timeit import timeit
 
+#FUNKCJE
+
 #def dodaj(liczba1, liczba2):
     #return liczba1+liczba2
 #print(dodaj(2,3))
@@ -26,3 +28,6 @@
     #print(f'Witaj {imie}!')
 #witaj()
 #witaj('PAAABLOOO')
+
+#MODULY I PAKIETY
+#import start as s
