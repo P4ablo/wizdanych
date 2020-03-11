@@ -22,7 +22,7 @@
     #return liczba1+liczba2
 #print(dodaj(2,3))
 
-def witaj(imie='Jan'):
-    print(f'Witaj {imie}!')
-witaj()
-witaj('PAAABLOOO')
+#def witaj(imie='Jan'):
+    #print(f'Witaj {imie}!')
+#witaj()
+#witaj('PAAABLOOO')
